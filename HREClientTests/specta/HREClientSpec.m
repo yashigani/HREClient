@@ -13,7 +13,7 @@
 
 #import "HREClient.h"
 
-SpecBegin(HREClientSpecta)
+SpecBegin(HREClientSpec)
 
 describe(@"HREClient", ^{
     __block HREClient *client = nil;
